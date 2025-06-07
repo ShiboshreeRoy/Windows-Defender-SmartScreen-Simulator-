@@ -151,7 +151,7 @@ This script is a simulation — it does **not** exploit any vulnerabilities or b
 To simulate a more authentic appearance, you can attach a `.ico` file to your `.py` script using libraries like `pyinstaller` or `pywin32`.
 
 ```bash
-pyinstaller --noconsole --icon=defender.ico smartscreen_simulator.py
+pyinstaller --noconsole --icon=defender.ico main.py
 ```
 
 ---
