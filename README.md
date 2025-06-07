@@ -1,5 +1,5 @@
 # 🛡️ Windows Defender SmartScreen Simulator  
-**Version 1.0** | Developed by [shiboshreeroy](https://github.com/shiboshreeroy)
+**Version 1.0** | Developed by [Shiboshree Roy](https://github.com/shiboshreeroy)
 
 > ⚠️ **Disclaimer**: This project is for **educational and demonstration purposes only**. It must only be executed on systems **you own or have explicit permission to test**. The developer is **not responsible** for any misuse or damage caused by the code.
 
