@@ -127,7 +127,7 @@ type C:\PATH\TO\command_log.txt
 ## 📎 File Structure
 
 ```
-smartscreen_simulator.py      # Main simulator script
+main.py      # Main simulator script
 README.md                     # Documentation
 payload.exe                   # Your own test executable
 command_log.txt               # Output log (optional)
